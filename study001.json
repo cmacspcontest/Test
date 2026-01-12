@@ -1,0 +1,905 @@
+{
+  "SASJSONExport": "1.0 PRETTY",
+  "SASTableData+STUDY001": [
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10001",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10002",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10003",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10004",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10005",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10006",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10007",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10008",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10009",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10010",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10011",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10012",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10013",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10014",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10015",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10016",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10017",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10018",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10019",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10020",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10021",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10022",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10023",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10024",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10025",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10026",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10027",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10028",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10029",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10030",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10031",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10032",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10033",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10034",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10035",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10036",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10037",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10038",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10039",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10040",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10041",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10042",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10043",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10044",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10045",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10046",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10047",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10048",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10049",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10050",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10051",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10052",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10053",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10054",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10055",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10056",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10057",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10058",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10059",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10060",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10061",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10062",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10063",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10064",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10065",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10066",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10067",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10068",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10069",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10070",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10071",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10072",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10073",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10074",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10075",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10076",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10077",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10078",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10079",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10080",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10081",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10082",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10083",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10084",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10085",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10086",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10087",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10088",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10089",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10090",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10091",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10092",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10093",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10094",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10095",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10096",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10097",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10098",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10099",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10100",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10101",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10102",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10103",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10104",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10105",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10106",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10107",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10108",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10109",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10110",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10111",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10112",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10113",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10114",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10115",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10116",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10117",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10118",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10119",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10120",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 20mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10121",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10122",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10123",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10124",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10125",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10126",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10127",
+      "TUCAT": "Prostate Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10128",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10129",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10130",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10131",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10132",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10133",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10134",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10135",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10136",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10137",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10138",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10139",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10140",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10141",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10142",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10143",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10144",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 40mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10145",
+      "TUCAT": "Small Cell Lung Cancer",
+      "ARM": "Drug A Q2W 100mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10146",
+      "TUCAT": "Breast Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10147",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10148",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 80mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10149",
+      "TUCAT": "Hepatocellular Carcinoma",
+      "ARM": "Drug A Q2W 10mg"
+    },
+    {
+      "STUDYID": "STUDY001",
+      "USUBJID": "STUDY001-10150",
+      "TUCAT": "Colorectal Cancer",
+      "ARM": "Drug A Q2W 40mg"
+    }
+  ]
+}
